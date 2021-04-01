@@ -1,0 +1,30 @@
+#main{
+  background:lightgray;
+  text-align:center;
+  
+}
+h1{
+  text:bold;
+  font-family:Arial;
+}
+h4{
+  color:#000000;
+  font-family:Arial;
+}
+
+#img-div{
+  background:white;
+  margin:10px;
+  padding:10px;
+}
+#tribute-link{
+  color:#00007f;
+}
+footer{
+  padding:10px;
+  margin:10px;
+}
+#tribute-info{
+  display:inline-block;
+  text-align:left;
+}
